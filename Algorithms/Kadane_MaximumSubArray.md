@@ -44,3 +44,5 @@ const maxSum2 = maxSubArray(nums2);
 console.log(`Maximum sum of a contiguous subarray: ${maxSum2}`);
 // Output: Maximum sum of a contiguous subarray: 7
 ```
+
+> Leetcode Problem #53 : https://leetcode.com/problems/maximum-subarray/
