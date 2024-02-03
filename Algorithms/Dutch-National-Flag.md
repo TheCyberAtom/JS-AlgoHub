@@ -47,4 +47,4 @@ sortColors(nums);
 console.log(nums); // Output: [0, 0, 1, 1, 2, 2]
 ```
 
-> Leetcode Problem #74 : https://leetcode.com/problems/sort-colors/description/
+> Leetcode Problem #75 : https://leetcode.com/problems/sort-colors/description/
